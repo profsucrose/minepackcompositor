@@ -20,6 +20,12 @@ Apply to your Minecraft Java Edition client and have fun!
 --fade=0-1 
   * Number between 0 and 1 that specifies how faded your mask image will be when overlayed with textures
 
+--name='My Resource Pack'
+  * Specifies name of resource pack
+
+--desc='My Resource Pack's Description'
+  * Specifies description of resource pack
+
 block
   * Avoid changing block textures
 
@@ -58,4 +64,5 @@ painting
   
 particle
   * Avoid changing particle textures
+
   
