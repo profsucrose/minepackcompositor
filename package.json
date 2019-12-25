@@ -1,0 +1,21 @@
+{
+	"name": "minepackcompositor",
+	"version": "1.0.0",
+	"description": "Generate a Minecraft resource pack by masking an input image over all original textures.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ."
+	},
+	"keywords": [
+		"minecraft",
+		"texture",
+		"node"
+	],
+	"author": "Prof. Sucrose <dr.blobbles@gmail.com>",
+	"license": "ISC",
+	"dependencies": {
+		"fs-extra": "^8.1.0",
+		"jimp": "^0.9.3",
+		"yargs": "^15.0.2"
+	}
+}
