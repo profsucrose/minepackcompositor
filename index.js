@@ -7,7 +7,8 @@ let SEARCH_QUEUE = []
 const checkPNG = str => str.substring(str.length - 3, str.length) == 'png'
 
 const IMAGE = argv._.shift()
-const FADE_AMOUNT = Number(argv.FADE_AMOUNT) || 0.3 // Default FADE_AMOUNT
+console.log(argv)
+const FADE_AMOUNT = argv.fade >= 0 ? argv.fade : 0.3 // Default FADE_AMOUNT
 const AVOID_FOLDERS = [
 	'.DS_Store',
 	'.mcmeta'
