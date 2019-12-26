@@ -4,7 +4,7 @@ MinePack Compositor can generate Minecraft resource packs by masking an input im
 
 ## Installation
 ```
-git clone https://github.com/DrBlobbles606/minepackcompositor && cd minepackcompositor && ./init.sh
+git clone https://github.com/profsucrose/minepackcompositor && cd minepackcompositor && ./init.sh
 ```
 
 ## Usage
@@ -54,7 +54,7 @@ misc
   * Avoid directory 'misc' when masking textures
   
 mob_effect
-  * Avoid directory 'block' when masking textures
+  * Avoid directory 'mob_effect' when masking textures
   
 models
   * Avoid changing textures in 'models' folder (used as asssets for various outer armor assets)
