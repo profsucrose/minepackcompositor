@@ -4,7 +4,7 @@ MinePack Compositor can generate Minecraft resource packs by masking an input im
 
 ## Installation
 ```
-git clone https://github.com/profsucrose/minepackcompositor && cd minepackcompositor && ./init.sh
+git clone https://github.com/profsucrose/minepackcompositor && cd minepackcompositor && sh init.sh
 ```
 
 ## Usage
