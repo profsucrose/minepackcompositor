@@ -18,7 +18,7 @@ Apply to your Minecraft Java Edition client and have fun!
 
 ## Flags
 --fade=0-1 
-  * Number between 0 and 1 that specifies how faded your mask image will be when overlayed with textures
+  * Number between 0 (not faded at all) and 1 (completely transparent) that specifies how faded your mask image will be when overlayed with textures
 
 --name='My Resource Pack'
   * Specifies name of resource pack
